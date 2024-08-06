@@ -58,7 +58,7 @@
     "dotenv": "^16.4.5",
     "email-validator": "^2.0.4",
     "embla-carousel-react": "^8.0.0",
-    "firebase": "^10.8.1",
+    "firebase": "^10.12.3",
     "framer-motion": "^11.2.5",
     "input-otp": "^1.2.4",
     "jotai": "^2.7.1",
