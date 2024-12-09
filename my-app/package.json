@@ -68,7 +68,7 @@
     "highlight.js": "^11.10.0",
     "input-otp": "^1.2.4",
     "jotai": "^2.7.1",
-    "lucide-react": "^0.341.0",
+    "lucide-react": "^0.460.0",
     "mammoth": "^1.8.0",
     "mixpanel-browser": "^2.49.0",
     "mongodb": "^6.5.0",
