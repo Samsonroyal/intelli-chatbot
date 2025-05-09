@@ -25,7 +25,7 @@
     "@mdx-js/react": "^3.1.0",
     "@nextui-org/react": "^2.3.6",
     "@paddle/paddle-js": "^1.0.3",
-    "@prisma/client": "^5.12.1",
+    "@prisma/client": "^5.22.0",
     "@radix-ui/react-accordion": "^1.1.2",
     "@radix-ui/react-alert-dialog": "^1.0.5",
     "@radix-ui/react-aspect-ratio": "^1.0.3",
